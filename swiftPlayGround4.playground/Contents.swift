@@ -27,3 +27,31 @@ while  i <= 10
     print(i)
     i = i+1
 }
+
+
+
+
+
+
+// coding challenge 1
+
+var I = 1
+
+while I <= 3
+{
+    print (I)
+    I = I+1
+}
+// coding challenge 2
+
+for Newsum in 1...10
+{
+  print(Newsum)
+}
+
+var Newint = -1
+for Newsum in 1...10
+{
+    sum += Newsum
+    print (Newsum)
+}
